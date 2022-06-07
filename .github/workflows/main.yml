@@ -25,4 +25,4 @@ jobs:
           channel: 'dev'
       - run: flutter pub get
       # run static analys code
-      #- run: flutter  analyze
+      - run: flutter  analyze
